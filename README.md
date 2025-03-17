@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed yasser Elnegouly</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Elnegouly</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Flutter**
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mohamed-elnegouly-763702247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed elnegouly" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-elnegouly-763702247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed elnegouly" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed_elnegouly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_elnegouly" height="30" width="40" /></a>
 </p>
 
