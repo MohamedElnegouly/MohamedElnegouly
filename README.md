@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elnegouly</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱junior Flutter developer
 
 - 📫 How to reach me **medoyasser511@gmail.com**
 
